@@ -1,0 +1,23 @@
+{
+  "name": "digital-service-docusaurus",
+  "version": "1.0.0",
+  "description": "I mean, it is what is says.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OGS-Digital-Service/digital-service-docusaurus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OGS-Digital-Service/digital-service-docusaurus/issues"
+  },
+  "homepage": "https://github.com/OGS-Digital-Service/digital-service-docusaurus#readme",
+  "dependencies": {
+    "docusaurus": "^1.14.7"
+  }
+}
