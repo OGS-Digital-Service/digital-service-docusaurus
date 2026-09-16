@@ -112,6 +112,24 @@ const config = {
             ],
           },
           {
+            title: 'Accessibility',
+            items: [
+              {
+                label: 'Tutorial',
+                to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'Engineering',
+            items: [
+              {
+                label: 'Tutorial',
+                to: '/docs/intro',
+              },
+            ],
+          },
+          {
             title: 'Community',
             items: [
               {
@@ -121,7 +139,7 @@ const config = {
             ],
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: ` ${new Date().getFullYear()} NYS Digital Service. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
