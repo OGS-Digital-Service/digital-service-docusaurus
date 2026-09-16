@@ -1,19 +1,15 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
 
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
   description: Docusaurus tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+a11y:
+  label: Accessibility
+  permalink: /accessibility
+  description: it's for accessibility
+
+engineering:
+  label: Web Engineering
+  permalink: /web-engineering
+  description: it's for building websites and such
